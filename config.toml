@@ -1,4 +1,4 @@
-baseURL = "https://bf.shoogle.net/burkina-faso"
+baseURL = "https://bf.shoogle.net/burkina-faso/"
 languageCode = "fr"
 title = "Burkina Faso"
 theme = "ln-base"
