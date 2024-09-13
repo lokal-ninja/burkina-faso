@@ -1,5 +1,5 @@
 ---
 title: "SOZAKOF"
 url: /ouagadougou/sozakof/
-shop: Eisenwaren
+shop: matériel informatique
 ---

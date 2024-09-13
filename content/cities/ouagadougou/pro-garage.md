@@ -1,5 +1,5 @@
 ---
 title: "Pro Garage"
 url: /ouagadougou/pro-garage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

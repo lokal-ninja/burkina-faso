@@ -1,5 +1,5 @@
 ---
 title: "Armelle Voyages"
 url: /ouagadougou/armelle-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---
